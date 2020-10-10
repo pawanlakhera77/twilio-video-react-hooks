@@ -18,12 +18,13 @@ const VideoChat = () => {
   const handleSubmit = useCallback(
     async event => {
       event.preventDefault();
-      const data = await fetch('/video/token', {
-        method: 'POST',
-        body: JSON.stringify({
-          identity: username,
-          room: roomName
-        }),
+      const data = await fetch('http://video-chat-twilio-app.herokuapp.com/token', {
+        // mode: 'no-cors',
+        method: 'GET',
+        // body: JSON.stringify({
+        //   identity: username,
+        //   room: roomName
+        // }),
         headers: {
           'Content-Type': 'application/json'
         }
