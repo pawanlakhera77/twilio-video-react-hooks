@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/twilio-video-react-hooks/static/css/main.3fdacb61.chunk.css",
+    "main.js": "/twilio-video-react-hooks/static/js/main.a0403ece.chunk.js",
+    "main.js.map": "/twilio-video-react-hooks/static/js/main.a0403ece.chunk.js.map",
+    "runtime-main.js": "/twilio-video-react-hooks/static/js/runtime-main.4f9c2966.js",
+    "runtime-main.js.map": "/twilio-video-react-hooks/static/js/runtime-main.4f9c2966.js.map",
+    "static/js/2.a4e9a941.chunk.js": "/twilio-video-react-hooks/static/js/2.a4e9a941.chunk.js",
+    "static/js/2.a4e9a941.chunk.js.map": "/twilio-video-react-hooks/static/js/2.a4e9a941.chunk.js.map",
+    "index.html": "/twilio-video-react-hooks/index.html",
+    "precache-manifest.eacc18aa0173bb258275f0f130ccc406.js": "/twilio-video-react-hooks/precache-manifest.eacc18aa0173bb258275f0f130ccc406.js",
+    "service-worker.js": "/twilio-video-react-hooks/service-worker.js",
+    "static/css/main.3fdacb61.chunk.css.map": "/twilio-video-react-hooks/static/css/main.3fdacb61.chunk.css.map",
+    "static/js/2.a4e9a941.chunk.js.LICENSE.txt": "/twilio-video-react-hooks/static/js/2.a4e9a941.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f9c2966.js",
+    "static/js/2.a4e9a941.chunk.js",
+    "static/css/main.3fdacb61.chunk.css",
+    "static/js/main.a0403ece.chunk.js"
+  ]
+}
