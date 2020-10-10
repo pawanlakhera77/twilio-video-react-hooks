@@ -18,7 +18,7 @@ const VideoChat = () => {
   const handleSubmit = useCallback(
     async event => {
       event.preventDefault();
-      const data = await fetch('http://video-chat-twilio-app.herokuapp.com/token', {
+      const data = await fetch('https://video-chat-twilio-app.herokuapp.com/token', {
         // mode: 'no-cors',
         method: 'GET',
         // body: JSON.stringify({
